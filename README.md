@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-keyter
 - 👀 I’m interested in developing tools, resources and people to help others thrive.
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on any JS or Web Development Projects
 - 📫 How to reach me - LinkedIn --> https://www.linkedin.com/in/alex-keyter/
 
